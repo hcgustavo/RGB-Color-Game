@@ -9,7 +9,7 @@ When you start the game, a RGB color in the format RGB(x, y, z) will be presente
 colors will appear. Click the one you find it is the correspodent color.<br>
 On the "easy mode", you will have to guess out of three shades. On the "hard mode", you will have to choose one out of six.
 <br><br>
-This project was developed as part of the course The Web Developer Bootcamp offered by UDEMY.
+*This project was developed as part of the course The Web Developer Bootcamp offered by UDEMY.
 
 Development
 --------------
